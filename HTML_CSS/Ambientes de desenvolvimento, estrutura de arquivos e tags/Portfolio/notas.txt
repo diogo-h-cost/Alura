@@ -1,0 +1,10 @@
+Site de paleta de cores:
+https://color.adobe.com/pt/create/color-wheel
+
+Site de cores CSS:
+https://www.w3schools.com/tags/ref_colornames.asp
+
+Sites para cores:
+https://coolors.co/
+https://colorhunt.co/ [Paleta pronta]
+https://m3.material.io/styles/color/system/overview [Testar acessibilidade]

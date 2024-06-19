@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.texto-destaque {
+    color: gray;
+    background-color: beige;
+}

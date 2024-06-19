@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    height: 300px;
+    justify-content: center;
+}
